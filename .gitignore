@@ -1,0 +1,6 @@
+# Power BI and Windows temporary files
+*.tmp
+~$*.xlsx
+~$*.pbix
+Thumbs.db
+.DS_Store
